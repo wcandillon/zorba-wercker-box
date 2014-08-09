@@ -1,6 +1,6 @@
 name: zorba
 version: 0.0.1
-inherits: wercker/azhwkd/cmake@0.0.1
+inherits: azhwkd/cmake@0.0.1
 type: main
 platform: ubuntu@12.04
 description: wercker box for Zorba Query Processor
